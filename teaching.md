@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## KTH (2017–2022)
+## KTH 
 
 **Master-level courses**
 - Functional Analysis and Measure Theory (SF2743) — twice
@@ -15,7 +15,7 @@ permalink: /teaching/
 - Discrete Mathematics
 - Differential Equations — twice
 
-## University of Melbourne (2015–2017)
+## University of Melbourne 
 
 - Calculus 1
 - Calculus 2
