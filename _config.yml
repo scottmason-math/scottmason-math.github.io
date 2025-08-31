@@ -9,7 +9,7 @@ email: sm12814@nyu.edu
 header_pages:
   - publications.md
   - teaching.md
-  - talks.md
+#  - talks.md
 # If you later move pages into a folder like _pages/, add:
 # include: [_pages]
 # And change header_pages entries accordingly.
