@@ -4,7 +4,7 @@ theme: minima
 markdown: kramdown
 url: https://scottmason-math.github.io
 author: Scott Mason
-email: sm12814@nyu.edu
+email: sm12814 at nyu.edu
 # Pages to show in the top navigation
 header_pages:
   - publications.md
