@@ -2,10 +2,10 @@ title: Scott Mason
 description: Postdoctoral Researcher, NYU Courant (Mathematics)
 theme: minima
 markdown: kramdown
-url: https://USERNAME.github.io
+url: https://scottmason-math.github.io
 author:
   name: Scott Mason
-  email: your.email@nyu.edu
+  email: sm12814@nyu.edu
 # Pages to show in the top navigation
 header_pages:
   - publications.md
