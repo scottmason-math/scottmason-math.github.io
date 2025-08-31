@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## KTH (2017–2021)
+## KTH (2017–2022)
 
 **Master-level courses**
 - Functional Analysis and Measure Theory (SF2743) — twice
