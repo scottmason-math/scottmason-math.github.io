@@ -1,6 +1,6 @@
 ---
 layout: home
-title: About
+title: About me
 ---
 
 I am currently a postdoctoral researcher in mathematics at [NYU Courant](https://math.nyu.edu/dynamic/people/postdocs/). My supervisor is [Roland Bauerschmidt](https://cims.nyu.edu/~bauerschmidt/). Before coming to Courant, I was a postdoc in the Statistical Laboratory at the [University of Cambridge](https://www.statslab.cam.ac.uk). 
