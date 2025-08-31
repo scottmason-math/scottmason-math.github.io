@@ -6,7 +6,7 @@ permalink: /publications/
 
 - [Twisted Dirac operators and fractional correlations of the massless sine-Gordon model at the free fermion point](https://arxiv.org/abs/2508.14806)  
   _with Roland Bauerschmidt and Christian Webb_
-- [Airy process at a thin rough region between frozen and smooth](https://arxiv.org/abs/YYMM.NNNNN)  
+- [Airy process at a thin rough region between frozen and smooth](https://arxiv.org/abs/2302.04663)  
   _with Kurt Johansson_
 - [Two-periodic weighted dominos and the sine-Gordon field at the free fermion point: I](https://arxiv.org/abs/2209.11111)
 - [Dimer-dimer correlations at the rough-smooth boundary](https://link.springer.com/article/10.1007/s00220-023-04649-1)  
