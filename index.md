@@ -8,9 +8,9 @@ I am currently a postdoctoral researcher in mathematics at [NYU Courant](https:/
 I obtained my PhD in 2023 from KTH, working under the supervision of [Kurt Johansson](https://scholar.google.com/citations?user=RzdltIUAAAAJ&hl=sv), and my undergraduate/master's degrees from the University of Melbourne.
 
 ## Research Interests
-My mathematical interests lie primarily in probability theory, mathematical physics and analysis. In particular, their applications to statistical mechanics. I have worked on the sine-Gordon field - a massive, non-conformal field theory and its relation to twisted Dirac operators, on dimer models and their height field fluctuations, connections to random matrices and correlation decay, and on fractional Dyson brownian motion. The sine-Gordon field theory has many connections to other models in probability theory, such as Coulomb gases, massive SLE and the Ising model. It has an expected exact mapping to the massive Thirring model, which one can use to conjecture (and prove) determinantal formulas for the correlations of several observables. See my publications tab for further details of my research interests.
+My mathematical interests lie primarily in probability theory, mathematical physics and analysis. I have worked on the sine-Gordon field - a massive, non-conformal field theory and its relation to twisted Dirac operators, on dimer models and their height field fluctuations, connections to random matrices and correlation decay, and on fractional Dyson brownian motion. The sine-Gordon field theory has many connections to other models in probability theory, such as Coulomb gases, massive SLE and the Ising model. It has an expected exact mapping to the massive Thirring model, which one can use to conjecture (and in some cases prove) determinantal formulas for the correlations of several observables. See my publications for further details.
 
-In my free time, I enjoy coding, bike rides and running.
+In my free time, I enjoy coding, cycling and running.
 
 -  **Contact:** sm12814 at nyu.edu
 -  **Links:** [Google Scholar](https://scholar.google.com/citations?user=agBp5xkAAAAJ&hl=en) · [LinkedIn](https://uk.linkedin.com/in/scott-mason-63b74bb0) 
